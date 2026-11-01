@@ -3,7 +3,8 @@ export default function Home() {
     <main style={{ padding: "4rem", fontFamily: "sans-serif", textAlign: "center" }}>
       <h1>Marwa Afif</h1>
       <p>Étudiante en cybersécurité et réseaux</p>
-      <p>Portfolio déployé avec Ansible et Semaphore UI</p>
+      <p>Portfolio déployé avec Ansible et Semaphore UI - version 2</p>
+      <p>Contact : marwa.afif009@gmail.com</p>
     </main>
   );
 }
